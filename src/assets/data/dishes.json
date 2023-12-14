@@ -1,19 +1,19 @@
 [
   {
     "id": "1",
-    "name": "Big Mac",
-    "price": 9.99,
+    "name": "Quick Clean",
+    "price": 99.99,
     "quantity": 2
   },
   {
     "id": "2",
-    "name": "Chicken Nuggets",
+    "name": "Dry Cleaning",
     "price": 6.99,
     "quantity": 1
   },
   {
     "id": "3",
-    "name": "Big Tasty",
+    "name": "Steam Cleaning",
     "price": 15.99,
     "quantity": 3
   }
